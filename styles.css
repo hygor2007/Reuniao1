@@ -1,13 +1,13 @@
 body {
    font-family: Arial, sans-serif;
-   background-color: rgb(255, 255, 255);
+   background-color: rgb(228, 228, 228);
    margin: 0;
    padding: 0;
 }
 header {
 
 
-   background-color: rgb(0, 89, 255);
+   background-color: rgb(255, 255, 255);
 
 
    color: rgb(255, 255, 255);
@@ -37,7 +37,7 @@ header {
    align-items: center;
 }
 .navbar:hover{
-  color: rgb(132, 0, 255);
+  color: blue;
   font-style: oblique;
 }
 
@@ -75,14 +75,13 @@ header {
 }
 
 .nav-links li a:hover{
-  color: rgb(173, 64, 247);
+  color: rgb(0, 68, 255);
   font-size: large;
   font-style: initial;
 }
 .content {
    margin-top: 80px; 
 }
-
 
 .footer {
    background-color: rgb(0, 247, 255);
